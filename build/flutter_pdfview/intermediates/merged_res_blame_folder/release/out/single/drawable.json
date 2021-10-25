@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/default_scroll_handle_left.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/d83428f666bd33c0714f07b99f5a23d2/jetified-android-pdf-viewer-3.2.0-beta.1/res/drawable/default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/default_scroll_handle_top.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/d83428f666bd33c0714f07b99f5a23d2/jetified-android-pdf-viewer-3.2.0-beta.1/res/drawable/default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/default_scroll_handle_bottom.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/d83428f666bd33c0714f07b99f5a23d2/jetified-android-pdf-viewer-3.2.0-beta.1/res/drawable/default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/default_scroll_handle_right.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/d83428f666bd33c0714f07b99f5a23d2/jetified-android-pdf-viewer-3.2.0-beta.1/res/drawable/default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/mnt/704E048C4E044D72/Programmation/webfile_flutter/build/flutter_pdfview/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/famillevincent/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]
